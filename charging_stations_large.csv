@@ -1,0 +1,21 @@
+station_id,station_name,location,capacity_kw
+1,Station 1,Kolkata,50
+2,Station 2,Kolkata,80
+3,Station 3,Hyderabad,60
+4,Station 4,Ahmedabad,100
+5,Station 5,Ahmedabad,80
+6,Station 6,Delhi,60
+7,Station 7,Ahmedabad,60
+8,Station 8,Kolkata,70
+9,Station 9,Bangalore,50
+10,Station 10,Chennai,50
+11,Station 11,Hyderabad,70
+12,Station 12,Hyderabad,100
+13,Station 13,Delhi,50
+14,Station 14,Delhi,100
+15,Station 15,Pune,80
+16,Station 16,Ahmedabad,80
+17,Station 17,Pune,50
+18,Station 18,Delhi,50
+19,Station 19,Delhi,80
+20,Station 20,Bangalore,80

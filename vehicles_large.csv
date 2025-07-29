@@ -1,0 +1,201 @@
+vehicle_id,user_id,vehicle_model,battery_capacity_kwh
+1,51,MG ZS EV,38
+2,103,Hyundai Kona,15
+3,21,Ather 450X,32
+4,172,Tata Nexon EV,36
+5,119,Tata Nexon EV,45
+6,129,TVS iQube,41
+7,110,Ather 450X,30
+8,106,Ather 450X,32
+9,195,Tata Nexon EV,25
+10,141,Ather 450X,32
+11,16,TVS iQube,18
+12,119,Hyundai Kona,24
+13,34,MG ZS EV,44
+14,152,TVS iQube,18
+15,141,MG ZS EV,22
+16,134,Tata Nexon EV,31
+17,39,Hyundai Kona,49
+18,2,TVS iQube,19
+19,11,Ather 450X,41
+20,7,Hyundai Kona,21
+21,126,TVS iQube,47
+22,7,Hyundai Kona,32
+23,103,Tata Nexon EV,42
+24,167,Ather 450X,29
+25,76,MG ZS EV,37
+26,115,MG ZS EV,46
+27,86,MG ZS EV,23
+28,127,TVS iQube,44
+29,115,Hyundai Kona,43
+30,179,Ather 450X,46
+31,52,Ather 450X,49
+32,3,TVS iQube,32
+33,77,Ather 450X,43
+34,158,Ather 450X,31
+35,10,Hyundai Kona,23
+36,116,Hyundai Kona,22
+37,134,Hyundai Kona,27
+38,117,TVS iQube,47
+39,182,TVS iQube,35
+40,194,TVS iQube,26
+41,44,Ather 450X,44
+42,80,MG ZS EV,15
+43,63,Ather 450X,35
+44,77,Hyundai Kona,43
+45,48,MG ZS EV,28
+46,77,Tata Nexon EV,19
+47,150,MG ZS EV,27
+48,121,Hyundai Kona,19
+49,19,Hyundai Kona,31
+50,90,Hyundai Kona,33
+51,14,Hyundai Kona,45
+52,93,Tata Nexon EV,15
+53,106,MG ZS EV,24
+54,7,Tata Nexon EV,48
+55,101,Ather 450X,27
+56,49,MG ZS EV,21
+57,41,Ather 450X,45
+58,155,Ather 450X,34
+59,159,Ather 450X,29
+60,134,Hyundai Kona,44
+61,144,MG ZS EV,32
+62,192,TVS iQube,18
+63,38,MG ZS EV,44
+64,60,Hyundai Kona,42
+65,114,MG ZS EV,18
+66,96,Hyundai Kona,48
+67,97,MG ZS EV,42
+68,33,MG ZS EV,36
+69,63,Ather 450X,25
+70,139,Tata Nexon EV,44
+71,141,MG ZS EV,44
+72,94,TVS iQube,39
+73,65,Tata Nexon EV,31
+74,158,TVS iQube,15
+75,91,MG ZS EV,49
+76,151,Hyundai Kona,28
+77,148,MG ZS EV,16
+78,134,Ather 450X,17
+79,37,Hyundai Kona,17
+80,84,TVS iQube,34
+81,128,MG ZS EV,27
+82,6,MG ZS EV,45
+83,93,Hyundai Kona,36
+84,155,MG ZS EV,28
+85,84,Tata Nexon EV,41
+86,141,TVS iQube,27
+87,136,MG ZS EV,15
+88,181,MG ZS EV,16
+89,81,Hyundai Kona,25
+90,158,Ather 450X,47
+91,1,TVS iQube,43
+92,75,Tata Nexon EV,17
+93,132,Tata Nexon EV,43
+94,62,Hyundai Kona,16
+95,68,Tata Nexon EV,28
+96,145,Ather 450X,34
+97,113,MG ZS EV,32
+98,85,TVS iQube,22
+99,117,MG ZS EV,21
+100,57,Hyundai Kona,24
+101,63,MG ZS EV,30
+102,185,Ather 450X,33
+103,49,Tata Nexon EV,44
+104,146,TVS iQube,33
+105,118,Ather 450X,17
+106,186,Hyundai Kona,44
+107,10,TVS iQube,32
+108,191,MG ZS EV,34
+109,80,Hyundai Kona,31
+110,162,MG ZS EV,38
+111,133,Ather 450X,27
+112,145,Ather 450X,17
+113,72,Hyundai Kona,35
+114,63,Tata Nexon EV,18
+115,24,Hyundai Kona,32
+116,92,Tata Nexon EV,25
+117,111,Hyundai Kona,42
+118,8,Hyundai Kona,19
+119,23,TVS iQube,37
+120,99,Tata Nexon EV,45
+121,159,Tata Nexon EV,22
+122,81,Ather 450X,39
+123,156,MG ZS EV,39
+124,48,Ather 450X,30
+125,115,Tata Nexon EV,25
+126,12,TVS iQube,34
+127,79,Tata Nexon EV,28
+128,31,MG ZS EV,33
+129,91,MG ZS EV,22
+130,35,Hyundai Kona,39
+131,55,TVS iQube,47
+132,82,Ather 450X,31
+133,164,TVS iQube,41
+134,72,Hyundai Kona,31
+135,110,Tata Nexon EV,47
+136,60,MG ZS EV,45
+137,113,Tata Nexon EV,35
+138,166,Tata Nexon EV,38
+139,69,Hyundai Kona,30
+140,182,Ather 450X,34
+141,14,Tata Nexon EV,49
+142,102,MG ZS EV,42
+143,20,MG ZS EV,49
+144,108,Ather 450X,32
+145,9,Ather 450X,38
+146,97,Hyundai Kona,42
+147,198,TVS iQube,28
+148,125,MG ZS EV,38
+149,101,Tata Nexon EV,45
+150,130,Hyundai Kona,20
+151,158,Ather 450X,48
+152,134,Tata Nexon EV,49
+153,169,TVS iQube,43
+154,151,Ather 450X,16
+155,31,TVS iQube,19
+156,20,TVS iQube,36
+157,5,MG ZS EV,23
+158,149,MG ZS EV,48
+159,107,TVS iQube,40
+160,75,MG ZS EV,20
+161,124,Ather 450X,16
+162,196,TVS iQube,22
+163,61,TVS iQube,16
+164,94,Hyundai Kona,16
+165,170,Hyundai Kona,22
+166,41,Hyundai Kona,40
+167,189,Hyundai Kona,28
+168,180,Tata Nexon EV,42
+169,41,Hyundai Kona,47
+170,60,Ather 450X,34
+171,30,Tata Nexon EV,49
+172,95,Ather 450X,31
+173,166,Hyundai Kona,18
+174,127,TVS iQube,23
+175,17,Tata Nexon EV,34
+176,100,TVS iQube,15
+177,168,Ather 450X,35
+178,158,Ather 450X,47
+179,66,Tata Nexon EV,49
+180,24,Ather 450X,20
+181,129,Tata Nexon EV,36
+182,88,Ather 450X,39
+183,38,TVS iQube,17
+184,112,MG ZS EV,22
+185,192,Hyundai Kona,26
+186,155,Hyundai Kona,43
+187,90,MG ZS EV,46
+188,135,MG ZS EV,16
+189,102,Tata Nexon EV,31
+190,42,Ather 450X,33
+191,146,TVS iQube,29
+192,113,Hyundai Kona,36
+193,44,MG ZS EV,20
+194,111,MG ZS EV,48
+195,198,MG ZS EV,17
+196,119,Ather 450X,42
+197,148,TVS iQube,34
+198,23,MG ZS EV,30
+199,110,TVS iQube,22
+200,140,Hyundai Kona,44
